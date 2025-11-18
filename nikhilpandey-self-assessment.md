@@ -82,6 +82,5 @@ Tech stack: Java, Spring Boot
 
 ### Definition of Success in Role
 - Successfully deliver high-quality code and features.
-- Collaborate effectively with team and stakeholders.
 - Continuously learn and apply new technologies.
 - Make measurable contributions that improve project outcomes.
