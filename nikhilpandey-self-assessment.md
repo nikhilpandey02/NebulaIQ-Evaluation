@@ -30,6 +30,7 @@ Tech stack: Spring Boot, Java, JPA, PostgreSQL, Spring Security
 - Created search and filter functionalities to find posts by title, author, or content.
 
 ### Magical Arena
+[GithHub Link](https://github.com/nikhilpandey02/Magical-Arena)
 Tech stack: Java, Spring Boot
 
 - Developed a game where two players play simultaneously with attributes such as strength, dice, health, and attack.
