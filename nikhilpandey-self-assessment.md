@@ -1,9 +1,10 @@
 # Technical Foundation
 
 ## Programming Languages
-- Java (7-8 scale rating)
-- Golang (4-5 scale rating)
-- SQL (7-8 scale rating)
+- Java (7 scale rating)
+- Golang (5 scale rating)
+- HTML
+- CSS
 
 ## Frameworks & Libraries
 - Spring Boot
@@ -11,77 +12,98 @@
 - Gin
 
 ## Tools & Technologies
-- Git
+- Git/Gitlab
 - PostgreSQL
-- PostMan
-- Intellij
-- VsCode
-
+- Postman
+- IntelliJ IDEA
+- VS Code
+- Hibernate
+- Servlet And JSP
+- Sql
+  
 ## Projects
 
-### Blog Application
+### Blog Application  
 [GitHub Link](https://github.com/nikhilpandey02/BlogApplication)  
-Tech stack: Spring Boot, Java, JPA, PostgreSQL, Spring Security
+**Tech stack:** Spring Boot, Java, JPA, PostgreSQL, Spring Security
 
-- Built a blog application using Spring Boot and PostgreSQL for backend.
-- Designed database schema to store blog posts, users, and comments.
-- Implemented features allowing users to add, edit, and delete their comments and posts.
-- Integrated login and security features so users can safely access the application.
-- Created search and filter functionalities to find posts by title, author, or content.
+- Built a full-featured blog application using Spring Boot and PostgreSQL as backend.  
+- Designed database schema for managing blog posts, users, and comments efficiently.  
+- Developed features allowing users to add, edit, and delete their posts and comments.  
+- Implemented secure user login and authentication with Spring Security.  
+- Created robust search and filter features to find posts by title, author, or content.  
+- Followed best practices with clean code, modularity, and externalized configuration.
 
-### Magical Arena
-[GithHub Link](https://github.com/nikhilpandey02/Magical-Arena)
-Tech stack: Java, Spring Boot
+### Magical Arena  
+[GitHub Link](https://github.com/nikhilpandey02/Magical-Arena)  
+**Tech stack:** Java, Spring Boot
 
-- Developed a game where two players play simultaneously with attributes such as strength, dice, health, and attack.
-- A player is randomly chosen to start; players roll dice and attack each other in turns.
-- The player whose health drops below zero loses the game.
+- Developed a two-player turn-based game with attributes like strength, dice rolls, health, and attack.  
+- Randomly select the first player; players roll dice to attack each other.  
+- Game ends when a player’s health drops below zero, declaring the other player winner.  
+- Focused on game logic, turn management, and state updates.
 
 ## Areas of Strength
-- Enjoy tackling more complex problems; passionate about debugging and finding bugs.
-- Strong ability to learn new technologies quickly and apply them effectively.
 
-## Areas to Improve
-- Need to work on time management to optimize productivity.
-- Improving deeper understanding of advanced data structures and algorithms.
+- Strong passion for solving complex problems; skilled at debugging and troubleshooting.  
+- Fast learner of new tools and technologies with practical application.    
+- Strong teamwork and collaborative mindset, contributing positively to group efforts.
 
+## Areas for Improvement
+
+- Working on improving time management for better task prioritization.  
+- Planning to deepen knowledge of advanced data structures and optimization techniques.  
+
+---
 # Work Style and Learning Preferences
-- Learning Mode: Prefer reading documentation, watching tutorial videos, and doing practical projects.
-- Problem-Solving Approach:
-  - Read the problem description carefully and highlight important points.
-  - Understand examples through dry runs and try brute force solutions first.
-  - Optimize by identifying appropriate data structures and analyzing time complexity.
+
+- Prefer a mix of reading documentation, watching tutorials, and hands-on coding to learn new topics.  
+- Approach problem solving by:  
+  - Carefully reading problem statements and extracting key points.  
+  - Running example scenarios manually to understand.  
+  - Starting with brute force solutions, then optimizing for efficiency.  
+- Value incremental learning and feedback for continuous improvement.
 
 ## Communication Preferences
-- Prefer to communicate via Slack and email.
+
+- Prefer communication through Slack and email.
 
 ## Handling Ambiguity
-- First step is to clearly understand the requirements and ask clarifying questions.
-- Create well-documented, information-rich specifications or prototypes to resolve uncertainties.
+
+- First clarify unclear requirements by asking focused questions.  
+- Use prototypes or detailed specs to help visualize and clarify ambiguous features.
 
 ## Independent vs Collaborative Work
+
 - Comfortable working independently and collaboratively in a team.
 
+---
 # Mentorship and Expectations
-- Interested in understanding product context, core customers, and stakeholder expectations.
-- Prefer feedback through email.
-- When facing blockers, perform root cause analysis (RCA) or review recent changes and roll back if necessary.
 
-# Availability and Work Rhythm
-- Work Hours: 8 AM to 6 PM
-- Weekend Availability: Available as needed
-- Energy Levels: Morning person with highest productivity in early hours
+- Seek to understand product context, user needs, and business goals.  
+- Prefer receiving constructive feedback via email.  
+- Resolve blockers by root cause analysis (RCA) and reverting recent changes if necessary.
 
+## Availability and Work Rhythm
+
+- Work hours: 8 AM to 6 PM IST.  
+- Flexible weekend availability.  
+- Morning person with peak productivity early in the day.
+
+---
 # Goals and Aspirations
 
-### 3-Month Goals
-- Gain end-to-end understanding of project workflow and contribute to major tasks leading to project deployment.
-- Improve skills in Spring Boot security and database optimization.
+## 3-Month Goals
+- Gain full understanding of project lifecycle and contribute meaningfully to deployment tasks.  
+- Enhance skills in Spring Security and database performance tuning.  
+- Improve testing and code review processes.
 
-### Career Direction (2-3 Year Vision)
+## Career Direction (2-3 Year Vision)
+- Where do you want to see yourself?  
+  - Specialist or Generalist?  
+  - Individual Contributor (IC) or Management?  
 - Currently exploring career options to decide best fit for long-term growth.
 
-### Definition of Success in Role
-- Successfully deliver high-quality code and features.
-- Continuously learn and apply new technologies.
-- Make measurable contributions that improve project outcomes.
+## Definition of Success in Role
+- To build my own products and become independent.
+- To create solutions that make people's lives easier.
