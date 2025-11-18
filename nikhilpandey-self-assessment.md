@@ -25,7 +25,7 @@
 
 ### Blog Application  
 [GitHub Link](https://github.com/nikhilpandey02/BlogApplication)  
-**Tech stack:** Spring Boot, Java, JPA, PostgreSQL, Spring Security
+**Tech stack:** Java,Spring Boot, JPA, PostgreSQL, Spring Security
 
 - Built a full-featured blog application using Spring Boot and PostgreSQL as backend.  
 - Designed database schema for managing blog posts, users, and comments efficiently.  
@@ -81,7 +81,7 @@
 # Mentorship and Expectations
 
 - Seek to understand product context, user needs, and business goals.  
-- Prefer receiving constructive feedback via email.  
+- Prefer receiving feedback directly.  
 - Resolve blockers by root cause analysis (RCA) and reverting recent changes if necessary.
 
 ## Availability and Work Rhythm
@@ -99,10 +99,8 @@
 - Improve testing and code review processes.
 
 ## Career Direction (2-3 Year Vision)
-- Where do you want to see yourself?  
-  - Specialist or Generalist?  
-  - Individual Contributor (IC) or Management?  
-- Currently exploring career options to decide best fit for long-term growth.
+- Want to become a tech heavy expert.
+- Able to build anything my own.
 
 ## Definition of Success in Role
 - To build my own products and become independent.
