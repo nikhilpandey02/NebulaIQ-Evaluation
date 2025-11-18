@@ -10,6 +10,7 @@
 - Spring Boot
 - JPA
 - Gin
+- Gorm
 
 ## Tools & Technologies
 - Git/Gitlab
