@@ -78,7 +78,6 @@ Tech stack: Java, Spring Boot
 - Improve skills in Spring Boot security and database optimization.
 
 ### Career Direction (2-3 Year Vision)
-- Where do you want to see yourself?
 - Currently exploring career options to decide best fit for long-term growth.
 
 ### Definition of Success in Role
