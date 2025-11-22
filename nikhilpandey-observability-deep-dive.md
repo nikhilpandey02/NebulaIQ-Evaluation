@@ -1589,6 +1589,10 @@ All services →
 ---
 
 ### DataDog
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/533480f3-1c1d-47ce-86ba-783e371ac33e" />
+<img width="1920" height="1080" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/a977cf34-0126-45ef-bfb7-173d96d515df" />
+
+
 
 **Strengths:** Auto-correlation, great anomaly detection  
 **Weaknesses:** Expensive, vendor lock-in  
