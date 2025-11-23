@@ -1,0 +1,23 @@
+package com.example.servicec;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+import java.util.Map;
+
+@RestController
+public class DbController {
+
+    @GetMapping("/db/{id}")
+    public Map<String, Object> db(@PathVariable String id) throws InterruptedException {
+        // simulate slow database work
+        Thread.sleep(150);
+        
+        return Map.of(
+                "service", "C",
+                "id", id,
+                "result", "ok"
+        );
+    }
+}
