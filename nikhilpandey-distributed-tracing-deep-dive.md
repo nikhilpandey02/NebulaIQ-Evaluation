@@ -1479,6 +1479,7 @@ java -javaagent:C:\Users\nikhi\otel\opentelemetry-javaagent.jar ^
      -Dotel.exporter.otlp.endpoint=http://localhost:4318 ^
      -Dotel.service.name=service-a ^
      -jar target/serviceA-0.0.1-SNAPSHOT.jar
+```
 
 <img width="1920" height="1080" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/b06c1b42-d1e3-4700-b00f-80987c8992e8" />
 <img width="1920" height="1080" alt="Screenshot (248)" src="https://github.com/user-attachments/assets/8e2ebc8c-8d7c-447c-803a-4e7943980bb8" />
