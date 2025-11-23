@@ -1486,6 +1486,9 @@ java -javaagent:C:\Users\nikhi\otel\opentelemetry-javaagent.jar ^
 <img width="1920" height="1080" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/f9fad2c9-4988-4f7f-b226-c3c31c5ba689" />
 <img width="1920" height="1080" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/e35534b5-fe14-4459-b3d0-3843bcd0823c" />
 <img width="1920" height="1080" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/d16d86e6-8c37-4953-97c6-68e3c723b5fc" />
+<img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/f8accbdd-d934-41c6-aae1-b74354a8c493" />
+
+
 
 
 
